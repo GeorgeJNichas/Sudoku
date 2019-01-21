@@ -1,0 +1,11 @@
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/bin/Debug/netcoreapp2.1/SudokuProj.deps.json
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/bin/Debug/netcoreapp2.1/SudokuProj.runtimeconfig.json
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/bin/Debug/netcoreapp2.1/SudokuProj.runtimeconfig.dev.json
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/bin/Debug/netcoreapp2.1/SudokuProj.dll
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/bin/Debug/netcoreapp2.1/SudokuProj.pdb
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/obj/Debug/netcoreapp2.1/SudokuProj.csprojResolveAssemblyReference.cache
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/obj/Debug/netcoreapp2.1/SudokuProj.csproj.CoreCompileInputs.cache
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/obj/Debug/netcoreapp2.1/SudokuProj.AssemblyInfoInputs.cache
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/obj/Debug/netcoreapp2.1/SudokuProj.AssemblyInfo.cs
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/obj/Debug/netcoreapp2.1/SudokuProj.dll
+/Users/georgenichas/Projects/SudokuProj/SudokuProj/obj/Debug/netcoreapp2.1/SudokuProj.pdb
